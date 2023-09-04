@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ContactForm_Andy.Shared/1.0.0": {
+        "runtime": {
+          "ContactForm_Andy.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactForm_Andy.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

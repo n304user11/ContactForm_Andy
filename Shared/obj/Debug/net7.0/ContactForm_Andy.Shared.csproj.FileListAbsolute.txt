@@ -1,0 +1,11 @@
+D:\git\ContactForm_Andy\Shared\bin\Debug\net7.0\ContactForm_Andy.Shared.deps.json
+D:\git\ContactForm_Andy\Shared\bin\Debug\net7.0\ContactForm_Andy.Shared.dll
+D:\git\ContactForm_Andy\Shared\bin\Debug\net7.0\ContactForm_Andy.Shared.pdb
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.AssemblyInfoInputs.cache
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.AssemblyInfo.cs
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.csproj.CoreCompileInputs.cache
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.dll
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\refint\ContactForm_Andy.Shared.dll
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ContactForm_Andy.Shared.pdb
+D:\git\ContactForm_Andy\Shared\obj\Debug\net7.0\ref\ContactForm_Andy.Shared.dll
